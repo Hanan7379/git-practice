@@ -1,3 +1,2 @@
-# git-practice
-####The first git practice
+# git-practThe first git practice
 #The first git 
